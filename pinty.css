@@ -1,0 +1,304 @@
+.makeup{
+ height:50vh;
+ width:400px;
+}
+
+.try{
+  background-color:lightblue;
+  width:auto;
+  height:100vh;
+  width: 100%;
+
+}
+
+
+
+.com{
+  width:50%;
+  height:100%;
+  
+  
+}
+
+.save{
+  background-color: aqua;
+  height: 100vh;
+
+}
+.ideas{
+  background-color:aqua;
+  margin-top: 10%;
+  margin-left: 10%;
+  height:45vh;
+  width:500px ;
+
+}
+.you{
+  color: green;
+  font-weight: bold;
+  font-size:55px ;
+  font-family: "roboto";
+  text-align:start ;
+  margin-top: 15%;
+  margin-left:15%;
+  
+}
+.collect{
+  color: green;
+  font-size: 26px;
+  font-family: "roboto";
+  text-align:start;
+  margin-top: 2%;
+  margin-left:19%;
+}
+.like{
+  background-color: red;
+  color:aliceblue;
+ 
+  width:90px;
+   height:31px;
+   border-width: 0px;
+   border-radius: 20px;
+   margin-left:10%;
+   font-weight: bold;
+}
+.fern{
+ color:rgb(85, 16, 124);
+
+ border-radius:10px;
+  
+ 
+}
+.vibes{
+  text-align: start;
+  height:30vh;
+  width:100px;
+  margin-left:2cqw;
+}
+
+.center{
+  height:45vh;
+  width:150px;
+  text-align: start;
+}
+.center1{
+  height: 35vh;
+  width:150px;
+  margin-top: 2%;
+  margin-left:5% ;
+}
+.center2{
+  height: 25vh;
+  width:150px;
+  text-align: start;
+  margin-top:5% ;
+  margin-left:5% ;
+}
+.center3{
+  height: 35vh;
+  width:150px;
+  text-align: right;
+  margin-top:2%;
+  margin-left:5% ;
+}
+.center4{
+  height: 25vh;
+  width:150px;
+  text-align:left;
+  margin-left:15%;
+}
+.container{
+  background-color:rgb(225, 179, 225);
+  height:100vh;
+  background-size:auto;
+
+  
+
+}
+.search{
+  margin-top:15% ;
+  margin-left: 15%;
+  color:brown;
+  margin-right: 100px;
+  font-family: "Roboto";
+  font-weight: Bold;
+  font-size:55px ;
+}
+.what{
+  
+  margin-left: 15%;
+  font-size: 26px;
+  color:brown;
+ 
+}
+.bag{
+  background-color:white;
+  color:brown;
+  width:200px;
+   height:45px;
+   border-width: 0px;
+   border-radius: 20px;
+   margin-left:18%;
+   font-weight: bold;
+   text-align: center;
+}
+
+.food{
+ height:50vh ;
+ 
+ width:185px;
+ 
+}
+.food1{
+  height:40vh ;
+  margin-top: 20px;
+  width:200px;
+}
+ .food2{
+  height:30vh ;
+  margin-top:15px;
+  width:150px;
+ 
+ }
+ .food3{
+  height: 30vh ;
+  margin-top: 0px;
+  margin-left:5px;
+  width:170px;
+ }
+ .dinner{
+  background-color:rgb(66, 16, 158);
+  height:25vh;
+  color:brown;
+  width:auto;
+  text-align: center;
+ }
+.explore{
+   background-color:brown;
+   color:white;
+   width:90px;
+   height:31px;
+   border-width: 0px;
+   border-radius: 20px;
+   text-align:right;
+   font-weight: bold;
+   margin-left:20% ;
+}
+.image2{
+  margin-top:25px;
+  margin-right:2px;
+  height:40vh;
+  width: 120px;
+  border: 0cap;
+}
+.image3{
+  margin-top:20px;
+  margin-right:7px;
+  height:70vh;
+  width: 195px;
+  border: 0cap;
+}
+
+
+.image{
+  margin-top:30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 60vh;
+  width: 200px;
+  border: 0cap;
+}
+.image1{
+  margin-top:100px;
+  margin-left:15px;
+  height:55vh;
+  width: 190px;
+}
+
+.bg-container{
+  background-color: aliceblue;
+  height:100vh;
+
+}
+.get{
+  margin-top: 10px;
+  color:black;
+  font-weight: Bold;
+  font-family: "roboto";
+  font-size: 45px;
+  text-align: center;
+}
+.home{
+  color:rgb(197, 197, 40);
+  font-weight: Bold;
+  font-family: "roboto";
+  font-size:45px;
+  text-align: center;
+}
+.pi{
+  background-color: red;
+  color:white;
+  margin-top:5px;
+  margin-left: 20px;
+  width:23px;
+  height:23px;
+  text-align:center;
+  border-width: 0px;
+  border-radius: 20px;
+  font-family:"Lobster";
+}
+
+
+
+
+
+.pin{
+  margin-right: 20px;
+  color: red;
+  font-weight: bold;
+  margin-left: 5px;
+  font-family: "roboto";
+  font-size:19px ;
+}
+.button1{
+  background-color: red;
+  color:white;
+  width:90px;
+   height:31px;
+   border-width: 0px;
+   border-radius: 20px;
+   margin-left:3%;
+   font-weight: bold;
+}
+.button2{
+  background-color:rgb(224, 215, 215);
+  color:black;
+  width:90px;
+   height:31px;
+   border-width: 0px;
+   border-radius:20px;
+   margin-left:3%;
+   font-weight: bold;
+} 
+.head{
+  color:black;
+  font-family:"roboto";
+  padding-left:3%;
+  font-weight: bold;
+
+}
+.head1{
+  color:black;
+  font-family:"roboto";
+  padding-left:55%;
+  font-weight: bold;
+}
+.head2{
+  color:black;
+  font-family:"roboto";
+  padding-left:3%;
+  font-weight: bold;
+}
+div{
+  padding-top: 15px;
+}
